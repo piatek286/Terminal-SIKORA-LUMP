@@ -1,0 +1,8 @@
+0
+2
+3
+0
+0
+0
+200ms
+Prolific USB-to-Serial Comm Port
