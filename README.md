@@ -6,4 +6,5 @@ A program for communication with the SIKORA LUMP device, using ASCII or USCC com
 - **Siemens PLC Communication** – Powered by [Snap7](https://snap7.sourceforge.net/)  
 - **Excel File Generator** – Based on [QXlsx](https://github.com/QtExcel/QXlsx)  
 - **Compilation Tools** – Supports **MinGW** or **MSVC** 
+- **Delta HMI** - DIAScreen software (https://diastudio.deltaww.com/home/Specification?Type=4)
 
